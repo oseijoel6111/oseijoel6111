@@ -11,7 +11,7 @@
 <!-- Social icons section -->
 <p align="center">
   <center>
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/Oseijoel6111"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   <a href="#" ></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/oseijoel6111"><img width="32px" alt="Dev.to" title="Oseijoel6111 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
